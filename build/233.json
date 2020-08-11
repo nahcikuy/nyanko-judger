@@ -1,0 +1,23 @@
+{
+	"description":	"Njudger Logger File",
+	"version":	"0.0.1",
+	"srcFile":	"test.cpp",
+	"dataDir":	"data",
+	"test":	[{
+			"cpuTime":	3,
+			"realTime":	505,
+			"memoryUsage":	3132,
+			"result":	"Runtime Error",
+			"resultCode":	7,
+			"judgerLog":	"Runtime Error: user's program was exited by the signal 31"
+		}],
+	"maxCpuTime":	3,
+	"maxRealTime":	505,
+	"maxMemoryUsage":	3132,
+	"result":	"Runtime Error",
+	"resultCode":	7,
+	"judgerLog":	"Runtime Error on test 1",
+	"exitCode":	0,
+	"errorMessage":	"SUCCESS",
+	"etc":	"Nyan~"
+}
